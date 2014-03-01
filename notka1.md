@@ -2,11 +2,11 @@
 Poznawanie trudnej sztuki programowania rozpoczyna się najczęściej od prostego programu ***Hello World***.  
 Jego twórcą był ***Denis Ritche***.  
 ![Tekst alt](http://www.chip.pl/blobimgs/2011/10/full/ea882209c5c896ffda86ca443d4188f4.jpeg)  
-Z tego wynika, że ja zaczęłam nietypowo:  
+***Z tego wynika, że zaczęłam nietypowo:***  
  1. najpierw przepisałam program w języku C++ liczący liczbę groszków w strąkach,  
  2. napisałam prosty program w języku C++.  
 **Oto on:**  
-#include <iostream>  
+	#include <iostream>  
 #include <conio.h>  
 using namespace std;  
 
@@ -39,5 +39,5 @@ int main ( )
 
     
     getch();  
-}
-
+}  
+***Sprawdźcie czy działa?***
