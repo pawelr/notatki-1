@@ -7,7 +7,7 @@ main()
 }  
 
 Tak wygląda napisany w języku C, którego twórcą był ***Denis Ritche*** (na zdjęciu).  
-Po raz pierszy przykład ten został opublikowany w 1974r. w pracy ***Programming in C: A.Tutorid***.
+Po raz pierszy przykład ten został opublikowany w 1974r. w pracy ***Programming in C: A.Tutorial***.
 
 ![Tekst alt](http://www.chip.pl/blobimgs/2011/10/full/ea882209c5c896ffda86ca443d4188f4.jpeg)  
 
