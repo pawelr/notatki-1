@@ -3,7 +3,7 @@ Trudną sztukę programowania rozpoczyna się najczęściej od poznania prostego
 
 main()      
 {    
-    printf("hello,world");  
+        printf("hello,world");  
 }  
 
 Tak wygląda napisany w języku C, którego twórcą był ***Denis Ritche*** (na zdjęciu).  
